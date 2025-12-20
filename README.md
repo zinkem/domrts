@@ -19,7 +19,7 @@ This project was **vibe coded** — built primarily through AI-assisted developm
 - Combat mechanics with projectiles
 - Multiple biomes and terrain types
 - AI-driven unit behaviors
-- Isometric rendering
+- Isometric unit rendering and drawing system
 
 ## Running
 
