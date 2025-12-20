@@ -27,7 +27,7 @@ This project was **vibe coded** — built primarily through AI-assisted developm
 
 - **Shader pipeline** — Palette-based rendering system for unit colorization
 - **Procedural map generation** — Random terrain with configurable biomes and resource distribution
-- **Build order system** — Structured unit/building production with logging for AI-assisted debugging
+- **Build order system** — Structured unit/building production with logging to help AI assistants design build orders
 - **Sprite caching** — Canvas-based caching for efficient isometric rendering
 - **Quadtree spatial indexing** — Optimized collision and unit lookup
 - **Flow field pathfinding** — Efficient multi-unit navigation
